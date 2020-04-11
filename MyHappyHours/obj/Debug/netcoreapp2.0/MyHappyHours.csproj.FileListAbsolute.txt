@@ -1,0 +1,22 @@
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.deps.json
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.runtimeconfig.json
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.runtimeconfig.dev.json
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.dll
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.pdb
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.csprojAssemblyReference.cache
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.csproj.CoreCompileInputs.cache
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.AssemblyInfoInputs.cache
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.AssemblyInfo.cs
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.dll
+C:\Users\dhaval\source\repos\New Folder\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.pdb
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.deps.json
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.runtimeconfig.json
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.runtimeconfig.dev.json
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.dll
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\bin\Debug\netcoreapp2.0\MyHappyHours.pdb
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.csprojAssemblyReference.cache
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.csproj.CoreCompileInputs.cache
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.AssemblyInfoInputs.cache
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.AssemblyInfo.cs
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.dll
+C:\Users\dhaval\Documents\Visual Studio 2017\Projects\MyHappyHours\MyHappyHours\obj\Debug\netcoreapp2.0\MyHappyHours.pdb
